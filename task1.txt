@@ -1,0 +1,18 @@
+1) ls
+I see a list of items contained in the folder i'm currently in.
+It means the folder has items within it.
+
+2) pwd
+I see the path from my home directory to the directory i'm currently in.
+This means there is a path that leads to the current directory.
+
+3) mkdir workspace
+cd workspace
+
+4) ls
+I see nothing.
+This means no files have been created within the workspace folder.
+
+5) touch README.md 
+
+6) cp README.md CHANGELOG.md

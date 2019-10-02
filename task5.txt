@@ -1,0 +1,13 @@
+1) cd Documents/
+touch pad.md
+
+2) cd ..
+cd Desktop/
+
+3) cp /home/tadiwa/Documents/pad.md /home/tadiwa/Desktop/pad_copy.md
+
+4) locate updatedb
+
+5) cd ..
+
+6) locate pad_copy.md

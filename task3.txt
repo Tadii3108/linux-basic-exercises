@@ -1,0 +1,11 @@
+1) touch umuzi.md recruits.md cohort.md 
+
+2) echo "Hi my name s Tadiwa Vanessa ZIngoni" > umuzi.md
+echo "I am at Umuzi Academy" > recruits.md
+echo "In the tech department, specifically web development" > cohort.md
+
+3) cat umuzi.md recruits.md cohort.md
+
+4) cat umuzi.md recruits.md cohort.md >> summary.md
+
+5) echo "The End" >> summary.md 

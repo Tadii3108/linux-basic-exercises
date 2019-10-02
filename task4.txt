@@ -1,0 +1,3 @@
+1) locate umuzi
+
+2) locate umuzi > search_result.txt

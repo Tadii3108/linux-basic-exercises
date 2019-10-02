@@ -1,0 +1,5 @@
+1) find *.pdf
+
+2) find *.pdf >> Workspace/umuzi.md
+
+3) ls -la | grep "Sep 26"
